@@ -49,7 +49,7 @@ async def _(event):
     ms = (end - start).microseconds / 1000
     uptime = get_readable_time((time.time() - Lastupdate))
     await starkislub.edit(
-        f"**█▀█ █▀█ █▄░█ █▀▀ █ \n█▀▀ █▄█ █░▀█ █▄█ ▄**\n➲ `{ms}` \n➲ `{uptime}` \n➲ `@{hmm.username}` \n➲ `@{bot_u}`"
+        f"**😎🤘PONG!!🤘😎**\n➥ `{ms}`\n➥ Friday AI  \n➥ `{uptime}` \n➥ `Powerful AI bot if @Naveen_2424`"
     )
 
 
